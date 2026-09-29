@@ -1,0 +1,63 @@
+{
+  "maps": [
+    {
+      "id": "green_circuit",
+      "name": "Circuito Verde",
+      "description": "Un óvalo tradicional con recta principal limpia.",
+      "laps": 3,
+      "finish_line": {"start": [640, 575], "end": [640, 645]},
+      "waypoints": [
+        [640, 610],
+        [980, 610],
+        [1080, 510],
+        [1080, 210],
+        [980, 110],
+        [300, 110],
+        [200, 210],
+        [200, 510],
+        [300, 610]
+      ]
+    },
+    {
+      "id": "desert_loop",
+      "name": "Vuelta del Desierto",
+      "description": "Circuito ancho estilo trióvalo con curvas suaves.",
+      "laps": 4,
+      "finish_line": {"start": [640, 585], "end": [640, 655]},
+      "waypoints": [
+        [640, 620],
+        [1000, 620],
+        [1120, 480],
+        [1120, 240],
+        [960, 100],
+        [320, 100],
+        [160, 240],
+        [160, 480],
+        [280, 620]
+      ]
+    },
+    {
+      "id": "city_night",
+      "name": "Ciudad Nocturna",
+      "description": "Trazado técnico estilo circuito urbano con rectas paralelas.",
+      "laps": 5,
+      "finish_line": {"start": [640, 585], "end": [640, 655]},
+      "waypoints": [
+        [640, 620],
+        [1000, 620],
+        [1060, 560],
+        [1060, 420],
+        [800, 420],
+        [800, 260],
+        [1060, 260],
+        [1060, 120],
+        [220, 120],
+        [220, 360],
+        [460, 360],
+        [460, 500],
+        [220, 500],
+        [220, 620]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "vehicles": [
+    {
+      "id": "sprint",
+      "name": "Sprint",
+      "max_speed": 320,
+      "acceleration": 220,
+      "handling": 0.8,
+      "color_rgb": [220, 40, 40],
+      "sprite_filename": "assets/images/cars/sprint.png",
+      "image_file": "assets/images/cars/sprint.png"
+    },
+    {
+      "id": "drifter",
+      "name": "Drifter",
+      "max_speed": 280,
+      "acceleration": 190,
+      "handling": 1.0,
+      "color_rgb": [40, 100, 220],
+      "sprite_filename": "assets/images/cars/drifter.png",
+      "image_file": "assets/images/cars/drifter.png"
+    },
+    {
+      "id": "heavy",
+      "name": "Heavy",
+      "max_speed": 250,
+      "acceleration": 160,
+      "handling": 0.65,
+      "color_rgb": [230, 190, 40],
+      "sprite_filename": "assets/images/cars/heavy.png",
+      "image_file": "assets/images/cars/heavy.png"
+    }
+  ]
+}
